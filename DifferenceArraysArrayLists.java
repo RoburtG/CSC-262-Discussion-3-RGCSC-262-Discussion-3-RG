@@ -6,7 +6,7 @@ Last section showing an example of what an ArrayList can do, which an Array cann
 
 import java.util.ArrayList;
 
-public class Difference
+public class DifferenceArraysArrayLists
 {
 public static void main(String[] args)
     {
